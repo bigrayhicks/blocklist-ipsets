@@ -1,0 +1,36 @@
+{
+	"ipset": "normshield_all_ddosbot",
+	"started": 1512592340000,
+	"updated": 1519017432000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			19,
+			24,
+			48,
+			72,
+			96,
+			120,
+			533,
+			581 ],
+		"ips": [ 
+			5,
+			385,
+			25,
+			5,
+			2,
+			1,
+			8,
+			1 ],
+		"total": 432
+	},
+	"current": {
+		"hours": [ 
+			0,
+			48 ],
+		"ips": [ 
+			7,
+			2 ],
+		"total": 9
+	}
+}

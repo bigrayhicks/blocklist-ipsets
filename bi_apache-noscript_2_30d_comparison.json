@@ -1,0 +1,14 @@
+[
+	{
+		"name": "bi_http_2_30d",
+		"category": "attacks",
+		"ips": 59,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 13562,
+		"common": 1
+	}
+]
